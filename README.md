@@ -1,4 +1,5 @@
 # number_to_word
-My First Repository on Github
-This is an assignment which is given by someone
-I Love My India
+App Name : Number To Word Convertor App <br />
+Package Name : com.example.convertnotowordapp <br />
+
+Find below steps for the way to run mobile app : <br />
